@@ -17,11 +17,11 @@ path_to_chromedriver = os.path.join(
     os.getcwd(), 'chromedriver_linux64/chromedriver')
 #username = input('Enter your UserName : ')
 #
-username = 'gabhishek339@gmail.com'
+#username = 'gabhishek339@gmail.com'
 #username = 'adit.mishra.7'
 
 #password = getpass()
-password = 'mnbvcxz@123'
+#password = 'mnbvcxz@123'
 #password = 'adit@123'
 
 #username = input('Enter your UserName : ')
