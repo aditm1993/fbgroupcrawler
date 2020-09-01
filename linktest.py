@@ -21,8 +21,8 @@ username = 'gabhishek339@gmail.com'
 #username = 'adit.mishra.7'
 
 #password = getpass()
-password = 'studyhard'
-#password = 'cheguevara'
+password = 'mnbvcxz@123'
+#password = 'adit@123'
 
 #username = input('Enter your UserName : ')
 #password = input('Enter your Password : ')
